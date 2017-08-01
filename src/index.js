@@ -1,5 +1,5 @@
 /**
- * Created by audri on 2016. 11. 25..
+ * Created by audri on 11/25/2016..
  */
 import React from 'react';
 import {
